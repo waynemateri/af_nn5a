@@ -1,5 +1,5 @@
 // af_nn5a - build a Hebbian neural network using arrayfire as the matrix math backend (see mod neural_net) and wgpu for graphics
-
+//
 
 use std::time::Instant; // For testing processing times
 use pollster::{block_on, FutureExt};
