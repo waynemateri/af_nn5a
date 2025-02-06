@@ -1,0 +1,6 @@
+cargo:rustc-link-lib=dylib=af
+cargo:rustc-link-search=native=/opt/ArrayFire-3.8.3-Linux/lib
+cargo:rustc-link-search=native=/opt/ArrayFire-3.8.3-Linux/lib64
+cargo:rustc-link-search=native=/usr/local/lib
+cargo:rustc-link-search=native=/usr/lib
+cargo:rustc-cfg=op_assign

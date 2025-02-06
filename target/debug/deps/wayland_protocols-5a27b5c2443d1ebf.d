@@ -1,0 +1,10 @@
+/home/waynemateri/rustle/af_nn5a/target/debug/deps/libwayland_protocols-5a27b5c2443d1ebf.rmeta: /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/lib.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/protocol_macro.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/ext.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/wp.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/xdg.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/xwayland.rs
+
+/home/waynemateri/rustle/af_nn5a/target/debug/deps/wayland_protocols-5a27b5c2443d1ebf.d: /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/lib.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/protocol_macro.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/ext.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/wp.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/xdg.rs /home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/xwayland.rs
+
+/home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/lib.rs:
+/home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/protocol_macro.rs:
+/home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/ext.rs:
+/home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/wp.rs:
+/home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/xdg.rs:
+/home/waynemateri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-0.32.6/src/xwayland.rs:

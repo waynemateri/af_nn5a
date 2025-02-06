@@ -1,0 +1,1 @@
+{"rustc":12933073805239064907,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[13533721945928300150,"build_script_build",false,16110982949243506110]],"local":[{"RerunIfChanged":{"output":"debug/build/num-rational-421a8d1b11d6943d/output","paths":["build.rs"]}}],"rustflags":["-L","/opt/ArrayFire-3.8.3-Linux/lib64"],"config":0,"compile_kind":0}
